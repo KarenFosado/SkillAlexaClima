@@ -87,30 +87,30 @@ Desarrollar una **skill para Alexa** que utilice una API externa (como OpenWeath
 
 ![alt text](<Img/Captura de pantalla 2024-12-04 225859.png>)
 
-### 6. **Creamos un API para la conectividad **  
+### 6. **Creamos un API para la conectividad**  
 ![alt text](<Img/Captura de pantalla 2024-12-04 230046.png>)
 
-### 7. **Aplicamos las coordenadas **  
+### 7. **Aplicamos las coordenadas**  
 ![alt text](<Img/Captura de pantalla 2024-12-04 230810.png>)
 
 
-### 8. **Configuramos nombre de invocacion **  
+### 8. **Configuramos nombre de invocacion**  
 ![alt text](<Img/Captura de pantalla 2024-12-04 231508.png>)
 
-### 9. **Personalizamos nuestro icono y lo agregamos **  
+### 9. **Personalizamos nuestro icono y lo agregamos**  
 ![alt text](<Img/Captura de pantalla 2024-12-04 232033.png>)
 
 
 
-### 10. **Configuramos la privacidad y esperamos a que validen **
+### 10. **Configuramos la privacidad y esperamos a que validen**
 ![alt text](<Img/Captura de pantalla 2024-12-04 232407.png>)
 ![alt text](<Img/Captura de pantalla 2024-12-04 232444.png>)
 
 
-### 11. **Hacemos la pruebas **  
+### 11. **Hacemos la pruebas**  
 Img/Captura de pantalla 2024-12-04 233242.png
 
-### 12. **Descargamos e iniciamos sesion con la misma cuenta para sincronizar y por ultimo verficamos en alexa movil (no tengo alexa fisica) **  
+### 12. **Descargamos e iniciamos sesion con la misma cuenta para sincronizar y por ultimo verficamos en alexa movil (no tengo alexa fisica)**  
 
 ![alt text](<Img/WhatsApp Image 2024-12-04 at 11.57.43 PM.jpeg>)
 
